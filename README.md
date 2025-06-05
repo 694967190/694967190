@@ -47,13 +47,6 @@
 
 ---
 
-## 贡献蛇形图
-
-<p align="center">
-  <img src="https://github.com/694967190/694967190/raw/output/github-contribution-grid-snake.svg" alt="贡献蛇形图" />
-</p>
-
-
 ## 联系方式
 
 - 📧 邮箱: a694967190@gamil.com
