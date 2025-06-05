@@ -3,10 +3,6 @@
 <h1 align="center">你好，我是 Op👋</h1>
 <h3 align="center">一名软件工程师</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=后端开发工程师;Python+%7C+Java;AI知识库;多线程爬虫" alt="动态打字效果" />
-</p>
-
 ---
 
 ## 关于我
